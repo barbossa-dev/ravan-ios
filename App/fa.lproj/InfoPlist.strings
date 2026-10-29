@@ -1,0 +1,3 @@
+/* Ravan ships a Persian UI: having a fa.lproj makes iOS localize system strings (e.g. the search tab) in Persian. */
+"CFBundleDisplayName" = "روان";
+"CFBundleName" = "روان";
